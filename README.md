@@ -1,3 +1,5 @@
+Learn Custom View's onMeasure by building a PerfectSquare custom view.
+
 Useful resources:
 - Learn how to calculate & convert px, dp, dip, sp
   https://github.com/FAndroidSandbox/customview-onmeasure-learn.git
